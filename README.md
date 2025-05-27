@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sandunmayadunne/sandunmayadunne/blob/main/res/This%20pin%20is%20all%20about%20coding.gif" width="1000" height="300"/>
+  <img src="https://github.com/sandunmayadunne/sandunmayadunne/blob/main/res/1.gif" width="1000" height="300"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sandun Mayadunne</h1>
