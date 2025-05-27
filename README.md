@@ -14,7 +14,7 @@
 
 - 🌱 Currently learning **Android and other programming languages**
 - 💬 Ask me about **Java, PHP, React Native**
-- 📫 Reach me at **sandunmayadunne2003@gmail.com**s
+- 📫 Reach me at **sandunmayadunne2003@gmail.com**
 
 ---
 
