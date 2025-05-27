@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sandunmayadunne/sandunmayadunne/blob/main/res/This%20pin%20is%20all%20about%20coding.gif" />
+  <img src="https://github.com/sandunmayadunne/sandunmayadunne/blob/main/res/This%20pin%20is%20all%20about%20coding.gif" width="1000" height="300"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sandun Mayadunne</h1>
@@ -9,7 +9,7 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" />
 </p>
 
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" />
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="350px" />
 
 ### 🚀 About Me
 
