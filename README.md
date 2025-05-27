@@ -5,13 +5,12 @@
 <h1 align="center">Hi 👋, I'm Sandun Mayadunne</h1>
 <h3 align="center">I am undergraduate at java institute for advanced technology</h3>
 
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px" />
-</p>
-
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="350px" />
 
-### 🚀 About Me
+<h3>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="20px" /> About Me
+</h3>
+
 
 - 🌱 Currently learning **Android and other programming languages**
 - 💬 Ask me about **Java, PHP, React Native**
