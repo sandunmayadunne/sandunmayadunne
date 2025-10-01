@@ -72,9 +72,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandunmayadunne&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandunmayadunne&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="GitHub Stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandunmayadunne&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
